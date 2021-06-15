@@ -4,10 +4,10 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.github.prolobjectlink</groupId>
 	<artifactId>prolobjectlink</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>prolobjectlink</name>
-	<description>Prolobjectlink Parent</description>
+	<name>Prolobjectlink Project</name>
+	<description>Prolobjectlink Project Parent</description>
 
 	<url>https://github.com/prolobjectlink/${project.name}</url>
 	<inceptionYear>2020</inceptionYear>
@@ -111,24 +111,6 @@
 		<maven.compiler.source>1.5</maven.compiler.source>
 		<maven.compiler.target>1.5</maven.compiler.target>
 	</properties>
-
-	<modules>
-		<module>../prolobjectlink-jpi</module>
-		<!-- <module>../prolobjectlink-jpi-eclipse</module> -->
-		<module>../prolobjectlink-jpi-ip</module>
-		<!-- <module>../prolobjectlink-jpi-ip-xsb</module> -->
-		<!-- <module>../prolobjectlink-jpi-jekpro</module> -->
-		<!-- <module>../prolobjectlink-jpi-jiprolog</module> -->
-		<!-- <module>../prolobjectlink-jpi-jlog</module> -->
-		<module>../prolobjectlink-jpi-jpl</module>
-		<!-- <module>../prolobjectlink-jpi-jpl-swi</module> -->
-		<!-- <module>../prolobjectlink-jpi-jpl-yap</module> -->
-		<!-- <module>../prolobjectlink-jpi-jpl7</module> -->
-		<!-- <module>../prolobjectlink-jpi-jpl7-swi7</module> -->
-		<!-- <module>../prolobjectlink-jpi-jtrolog</module> -->
-		<!-- <module>../prolobjectlink-jpi-tuprolog</module> -->
-		<!-- <module>../prolobjectlink-jpi-zprolog</module> -->
-	</modules>
 
 	<build>
 
